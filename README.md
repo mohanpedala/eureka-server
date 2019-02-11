@@ -1,4 +1,4 @@
-## Service-Discover (Netflix OSS Eureka)
+## Service-Discovery (Netflix OSS Eureka)
 
 ####
 Build the service and run it
